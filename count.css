@@ -1,0 +1,35 @@
+body{
+    background-color: DarkSlateGrey;
+}.containor{
+    
+    padding: 200px 650px;
+}
+.count{
+     font-size:150px;
+     text-align: center;
+     color: LightSeaGreen ;
+     font-family: cursive;
+}
+.head{
+    font-family:  cursive;
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    
+}
+.btn{
+    display: flex;
+    border:none;
+    color: DarkGoldenRod;
+   
+}
+button{
+    border:none;
+    color: black;
+    background-color:LightCyan ; 
+    margin-right: 10px;
+    cursor: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(black,0.5);
+     border-radius: 15px;
+     padding:5px ;
+     font-family:cursive;
+}
